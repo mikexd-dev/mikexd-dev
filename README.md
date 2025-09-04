@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mike Zhang</h1>
-<h3 align="center">Full Stack Applied AI Engineer building production AI systems</h3>
+<h3 align="center">Engineering Lead & Applied AI Engineer building production AI systems</h3>
 
 - 🤖 Currently building **production AI systems with RAG, memory systems, and multi-modal capabilities** at BlinkAI
-- 🤖 Currently learning ZenML and reading AI Engineering book by Chip Huyen
 - 🚀 Leading development of **content automation and brand strategy tools** using LangChain, LangGraph, and vector databases
 - 📚 Learning and implementing **prompt engineering, context management, and multi-agent systems**
 - 🔧 Previously built an **AI-powered smart contract generation platform** combining conversational AI with Web3
-- 💡 Worked with **ML deployment** on AWS SageMaker, Vertex AI
+- 💡 Working with **ML deployment** on AWS SageMaker, Vertex AI, and Azure ML
 - 🌱 Continuously exploring **LLM applications, RAG optimization, and agentic AI patterns**
 - 👯 Looking to collaborate on **applied AI projects and learn from the community**
 - 💬 Ask me about **building production AI systems, full-stack development, or cloud architecture**
@@ -55,6 +54,13 @@
 ⚡ **Real-time AI Integration** - Connecting LLMs with external tools, APIs, and data sources for dynamic responses
 
 🏗️ **End-to-End AI Applications** - Taking AI from prototype to production with proper monitoring, evaluation, and deployment
+
+<h3 align="left">Notable Achievement:</h3>
+
+🏆 **ETHOnline 2023 - First Place Best UX Award** (Solo Participant)
+- Built [AI-ducation](https://ethglobal.com/showcase/ai-ducation-trnzr): An AI-powered educational platform merging conversational AI with Web3
+- Competed against 1000+ participants globally
+- Demonstrated ability to rapidly prototype and deliver user-centric AI solutions
 
 <h3 align="left">Background & Experience:</h3>
 
