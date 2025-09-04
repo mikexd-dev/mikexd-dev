@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mike Zhang</h1>
-<h3 align="center">Engineering Lead & Applied AI Engineer building production AI systems</h3>
+<h3 align="center">Full Stack Applied AI Engineer building production AI systems</h3>
 
 - 🤖 Currently building **production AI systems with RAG, memory systems, and multi-modal capabilities** at BlinkAI
+- 🤖 Currently learning ZenML and reading AI Engineering book by Chip Huyen
 - 🚀 Leading development of **content automation and brand strategy tools** using LangChain, LangGraph, and vector databases
 - 📚 Learning and implementing **prompt engineering, context management, and multi-agent systems**
 - 🔧 Previously built an **AI-powered smart contract generation platform** combining conversational AI with Web3
-- 💡 Working with **ML deployment** on AWS SageMaker, Vertex AI, and Azure ML
+- 💡 Worked with **ML deployment** on AWS SageMaker, Vertex AI
 - 🌱 Continuously exploring **LLM applications, RAG optimization, and agentic AI patterns**
 - 👯 Looking to collaborate on **applied AI projects and learn from the community**
 - 💬 Ask me about **building production AI systems, full-stack development, or cloud architecture**
